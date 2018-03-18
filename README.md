@@ -1,4 +1,4 @@
-##activeMq
+## activeMq
 session接口中常用的几个变量
 * AUTO_ACKNOWLEDGE =1   自动确认
 * CLIENT_ACKNOWLEDGE 2  客户端手动确认
